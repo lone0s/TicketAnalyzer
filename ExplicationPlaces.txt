@@ -1,0 +1,7 @@
+
+Pour nos places nous les mettrons sous le concert de cette façons (cf exempleCommande.txt) ,
+On voit que les places commence par P puit 2 chiffre des places (suivant la spécification ou les places vont de 01 - 99 ), 
+elles seront placées sous la ligne de concert qui les concernent.
+
+
+
